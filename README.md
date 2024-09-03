@@ -433,6 +433,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, please contact:
 
 - **Your Name:** Naresh Reddy
-- **GitHub Profile:** [yourusername](https://github.com/nareshreddy624262)
+- **GitHub Profile:** https://github.com/nareshreddy624262
 
 ---
